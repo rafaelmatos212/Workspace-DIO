@@ -1,3 +1,3 @@
-# Repositório de desafios de bootcamp
+# Repositório de desafio de projeto
 
-Este repositório foi criado com o intuito de agrupar alguns projetos desenvolvidos através de um bootcamp disponivel na plataforma de ensino da DIO (https://web.dio.me/).
+Este repositório foi criado para a atividade prática desenvolvida através de um bootcamp disponivel na plataforma de ensino da DIO (https://web.dio.me/).
